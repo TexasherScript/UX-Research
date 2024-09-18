@@ -5,6 +5,10 @@
 
 ### *[Project Overview](https://www.canva.com/design/DAGRBhpd_yw/2ngzRwVGsdEUk-vM7BdF_Q/edit?utm_content=DAGRBhpd_yw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
+[UX Research and Product Research Templates](https://odette-jansen.notion.site/UX-Research-Templates-079c8453fb0d40039b7b7597dccb340f)
+
+[Ideation Methods](https://www.justinmind.com/blog/8-ux-ideation-techniques-to-try-out/)
+
 ### What You Will Gain:
 
 By completing this project, you'll gain foundational skills in UX research, usability testing, and design strategy. You'll learn how to conduct interviews, run usability tests, and analyze data to uncover user pain points. You'll practice creating personas, mapping user journeys, and prioritizing issues to offer actionable design recommendations. Additionally, you'll develop skills in wireframing or prototyping to visually present your ideas and refine design solutions. The project will also improve your ability to collaborate with stakeholders and cross-functional teams, enhancing both communication and problem-solving. This experience will strengthen your portfolio, showcasing your ability to improve user experiences across various digital platforms.
